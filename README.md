@@ -35,6 +35,9 @@ Feel free to send a pull request or open an issue if you have feedback or want t
 
 ### Resume
 
+- [JobEmerge](https://www.jobemerge.work)
+  - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
+
 - <https://www.themuse.com/advice/beat-the-robots-how-to-get-your-resume-past-the-system-into-human-hands> 
 - <https://www.capitalonecareers.com/6-resume-tips-from-a-tech-recruiter-cdev-101> 
 - <https://www.indeed.com/career-advice/resumes-cover-letters/technical-resume-tips> 
